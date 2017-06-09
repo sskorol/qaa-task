@@ -50,6 +50,6 @@ Virtual keyboard has the following markup:
  - For each browser instance generate a random phone number.
  - Split generated phone number into array of digits.
  - Replace **virtual key** placeholder (**%s**) with a single digit, so that you can get a unique element's path on each iteration, e.g. `//button[@class='key' and text()='1']`
- - For each browser instance call **click** method and pass recently generated unique element's path a an argument.
+ - For each browser instance call **click** method and pass recently generated unique element's path as an argument.
  
 As a result you should see a set of notifications in a console / terminal log, which confirm that your program has emulated a random phone number typing behavior via virtual keyboard in different web browsers.
