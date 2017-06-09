@@ -4,7 +4,7 @@
 
 Use common OOP principles for creating a program which emulates phone number typing via virtual keyboard in a web browser.
 
-![image](https://drive.google.com/file/d/0B1ORH0iP6-gedUV0Y2F4VzJ3MUk/view?usp=sharing)
+![image](https://user-images.githubusercontent.com/6638780/26970921-c69d5304-4d13-11e7-9a06-770a1624c280.png)
 
 Note that it's not required to interact with a real browser. You should build a set of abstractions which reflects your programming skills.
 
