@@ -45,7 +45,7 @@ Virtual keyboard has the following markup:
 
  - Create a constant to locate a **virtual key** on a web page: `//button[@class='key' and text()='%s']`
  - Create a helper method which returns a random phone number in the following format: [country_code][mobile_operator][phone_number]
- - Use **RandomStringUtils** class from **commons-lang3** library (already included as project dependency) for randomization.
+ - Use **RandomStringUtils** / **RandomUtils** classes from **commons-lang3** library (already included as project dependency) for randomization.
  - Create a list of **Chrome** and **Firefox** browsers.
  - For each browser instance generate a random phone number.
  - Split generated phone number into array of digits.
